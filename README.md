@@ -20,15 +20,9 @@ I care about clear service boundaries, reliable data flow, and maintainable code
 ## GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=flild&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Flild's GitHub statistics" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=flild&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img height="165" src="./profile/stats.svg" alt="Flild's GitHub statistics" />
+  <img height="165" src="./profile/top-langs.svg" alt="Most used languages" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flild&theme=github-compact&hide_border=true&radius=8" alt="GitHub activity over the last 31 days" width="100%" />
-</div>
-
----
 
 ## About me
 
@@ -58,8 +52,6 @@ A multi-service e-commerce application built with C# and .NET. The repository co
 A Python application that uses an **LSTM neural network** to forecast natural-gas futures prices from historical price and trading-volume data. It visualizes historical values and predictions and calculates trading results.
 
 **Focus:** time-series forecasting, API integration, data preparation, and visualization.
-
----
 
 ## What I'm interested in
 
