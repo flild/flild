@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
       <svg
         width="300"
@@ -14,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #006AFF;
+            fill: #58A6FF;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -39,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #417E87;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C3D1D9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -48,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #417E87;
+      fill: #C3D1D9;
     }
     .stagger {
       opacity: 0;
@@ -102,7 +101,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="299"
-          fill="#ffffff00"
+          fill="#0D1117"
           stroke-opacity="0"
         />
 
@@ -280,6 +279,3 @@
         </g>
       </svg>
     
-=======
-<svg xmlns="http://www.w3.org/2000/svg" width="470" height="175" viewBox="0 0 470 175"><rect width="470" height="175" rx="10" fill="#0d1117" stroke="#30363d"/><text x="24" y="34" fill="#bc8cff" font-family="Arial,sans-serif" font-size="15" font-weight="700">LANGUAGES</text><text x="24" y="76" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="14">Language breakdown is being prepared.</text><text x="24" y="101" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">This placeholder will be replaced with a generated</text><text x="24" y="120" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">card after the first successful workflow run.</text><path d="M24 145H446" stroke="#30363d"/></svg>
->>>>>>> 1395932 (visual update)
