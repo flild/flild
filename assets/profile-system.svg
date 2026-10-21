@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="170" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1020"/><stop offset="0.52" stop-color="#10152A"/><stop offset="1" stop-color="#0A0E19"/></linearGradient>
+    <linearGradient id="line" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#58E1FF"/><stop offset="0.5" stop-color="#8A9BFF"/><stop offset="1" stop-color="#7CE0B2"/></linearGradient>
+  </defs>
+  <rect width="1200" height="170" rx="14" fill="url(#bg)" stroke="#41516F" stroke-opacity=".65"/>
+  <path d="M28 28H1172" stroke="#91A4DB" stroke-opacity=".22"/><path d="M80 28V44M400 28V44M800 28V44M1120 28V44" stroke="url(#line)" stroke-width="2"/>
+  <text x="48" y="23" fill="#8291B4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.5">ENGINEERING PROFILE / HOW I WORK</text>
+  <g transform="translate(48 58)"><circle cx="7" cy="8" r="5" fill="#58E1FF"/><text x="24" y="13" fill="#D9E3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Backend systems</text><text x="24" y="36" fill="#91A2C9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">APIs, workers, services, integrations</text></g>
+  <g transform="translate(400 58)"><circle cx="7" cy="8" r="5" fill="#C49BFF"/><text x="24" y="13" fill="#D9E3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Data workflows</text><text x="24" y="36" fill="#91A2C9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Persistence, processing, contracts</text></g>
+  <g transform="translate(800 58)"><circle cx="7" cy="8" r="5" fill="#7CE0B2"/><text x="24" y="13" fill="#D9E3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Engineering practice</text><text x="24" y="36" fill="#91A2C9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Boundaries, feedback, delivery</text></g>
+</svg>

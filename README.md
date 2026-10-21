@@ -2,30 +2,17 @@
   <img src="./assets/profile-header.svg" alt="Flild · Backend Engineer · C#/.NET · Python" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/flild"><img src="https://img.shields.io/badge/GitHub-flild-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/C%23_%2F_.NET-backend-12283A?style=for-the-badge&logo=csharp&logoColor=74DFFF" alt="C sharp and .NET backend" />
-  <img src="https://img.shields.io/badge/Python-data_%26_services-1D1B35?style=for-the-badge&logo=python&logoColor=C2B1FF" alt="Python data and services" />
-  <img src="https://img.shields.io/badge/Available_for-interesting_problems-142A25?style=for-the-badge&logoColor=7CE0B2" alt="Available for interesting problems" />
-</div>
-
 <br />
 
 ## Profile
 
 I am a backend developer focused on **C#/.NET and Python**. I build APIs, integrations, background workers, and data services for products that need clear boundaries, reliable execution, and useful observability.
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><strong><font color="#58E1FF">BACKEND SYSTEMS</font></strong><br /><sub>APIs, services, workers, and integrations designed around clear ownership.</sub></td>
-    <td width="33%" valign="top"><strong><font color="#C49BFF">DATA WORKFLOWS</font></strong><br /><sub>Persistence, processing, forecasting, and the contracts between them.</sub></td>
-    <td width="33%" valign="top"><strong><font color="#7CE0B2">ENGINEERING MINDSET</font></strong><br /><sub>Readable code, observable behavior, and repeatable delivery.</sub></td>
-  </tr>
-</table>
-
 <div align="center">
-  <sub><b>FOCUS</b> &nbsp; Backend architecture · API design · Async processing · Data pipelines · Automation</sub>
+  <img src="./assets/profile-system.svg" alt="Backend systems, data workflows, and engineering practice" width="100%" />
 </div>
+
+<div align="center"><sub><b>FOCUS</b> &nbsp; Backend architecture · API design · Async processing · Data pipelines · Automation</sub></div>
 
 ## Capabilities
 
