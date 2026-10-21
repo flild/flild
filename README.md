@@ -15,6 +15,12 @@ I build backend services, REST APIs, integrations, and data-processing workflows
 
 </div>
 
+## GitHub stats
+
+<div align="center">
+  <img height="165" src="./profile/stats.svg" alt="GitHub statistics for Flild" />
+  <img height="165" src="./profile/top-langs.svg" alt="Most used programming languages" />
+</div>
 ---
 
 ## About me
@@ -51,12 +57,6 @@ A **Fabric mod for Minecraft 1.21.1** that introduces a new gameplay challenge e
 
 **Focus:** server-authoritative state, timing logic, multiplayer behavior, and UI implementation.
 
-## GitHub stats
-
-<div align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub statistics for Flild" />
-  <img height="165" src="./profile/top-langs.svg" alt="Most used programming languages" />
-</div>
 
 ---
 
