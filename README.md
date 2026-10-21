@@ -1,67 +1,82 @@
 <div align="center">
-
-# Hi, I'm Flild 👋
-
-### Backend Developer · C# / .NET · Python
-
-I build backend services, REST APIs, integrations, and data-processing workflows.
-
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-flild-181717?style=flat-square&logo=github)](https://github.com/flild)
-
+  <img src="./assets/profile-header.svg" alt="Flild · Backend Engineer · C#/.NET · Python" width="100%" />
 </div>
 
-## GitHub stats
-
 <div align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub statistics for Flild" />
-  <img height="165" src="./profile/top-langs.svg" alt="Most used programming languages" />
+  <a href="https://github.com/flild"><img src="https://img.shields.io/badge/GitHub-flild-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/C%23-Backend-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
+  <img src="https://img.shields.io/badge/Python-Services-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Open_to-Interesting_Problems-238636?style=for-the-badge" alt="Interesting problems" />
 </div>
----
 
-## About me
+<br />
 
-- Develop backend applications with **C#/.NET** and **Python**.
-- Work with **REST APIs**, service integrations, microservices, and background jobs.
-- Use **PostgreSQL**, **SQL Server**, and **Entity Framework Core** for data access.
-- Interested in practical architecture, automation, and reliable data-processing pipelines.
+## `$ whoami`
 
-## Tech stack
+Backend developer focused on **C#/.NET and Python**. I build APIs, integrations, background workers, and data-processing services. I like systems that are understandable, observable, and boring in production for the right reasons.
 
-| Area | Technologies |
-| --- | --- |
-| Backend | C#, .NET, ASP.NET Core, Python, FastAPI |
-| Databases | PostgreSQL, SQL Server, Entity Framework Core |
-| Messaging & background jobs | RabbitMQ, Celery |
-| Tools | Docker, Git, Linux, Windows |
-| Engineering | REST APIs, microservices, integrations, data processing |
+`CURRENT FOCUS`  `Backend architecture` · `API design` · `Async processing` · `Data pipelines` · `Automation`
 
-## Featured projects
+## `$ stack --grouped`
 
-### [CosmoStreetFoodEShop](https://github.com/flild/CosmoStreetFoodEShop)
-A multi-service e-commerce application built with **C#/.NET**. Includes separate services for products, shopping carts, coupons, email, and authentication, as well as a web application.
+<table>
+  <tr>
+    <td width="25%"><strong>BACKEND</strong></td>
+    <td>C# · .NET · ASP.NET Core · Python · FastAPI</td>
+  </tr>
+  <tr>
+    <td><strong>DATA</strong></td>
+    <td>PostgreSQL · SQL Server · Entity Framework Core</td>
+  </tr>
+  <tr>
+    <td><strong>ASYNC & MESSAGING</strong></td>
+    <td>RabbitMQ · Celery · Background workers</td>
+  </tr>
+  <tr>
+    <td><strong>INFRA & TOOLS</strong></td>
+    <td>Docker · Git · REST APIs · Service integrations</td>
+  </tr>
+</table>
 
-**Focus:** service boundaries, REST APIs, Entity Framework Core, PostgreSQL, SQL Server, and automated tests.
+## `$ projects --featured`
 
-### [AIMarketPrediction](https://github.com/flild/AIMarketPrediction)
-A **Python** application that uses an **LSTM neural network** to forecast natural-gas futures prices from market data. It visualizes historical prices, test predictions, and a 10-hour forecast.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/flild/CosmoStreetFoodEShop">01 / CosmoStreetFoodEShop</a></h3>
+      <p>Multi-service e-commerce application with separate services for products, carts, coupons, email, and authentication.</p>
+      <p><sub><b>FOCUS</b> · Service boundaries · REST APIs · EF Core · PostgreSQL · SQL Server</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/flild/AIMarketPrediction">02 / AIMarketPrediction</a></h3>
+      <p>Time-series forecasting experiment using an LSTM model to estimate natural-gas futures prices from historical market data.</p>
+      <p><sub><b>FOCUS</b> · Python · LSTM · Data preparation · Forecast visualization</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/flild/Minecraft-Curse-Cycle">03 / Minecraft-Curse-Cycle</a></h3>
+      <p>A Fabric mod that introduces gameplay challenges during survival runs, with multiplayer synchronization and an in-game interface.</p>
+      <p><sub><b>FOCUS</b> · Java · Fabric · Server-authoritative state · Multiplayer behavior</sub></p>
+    </td>
+  </tr>
+</table>
 
-**Focus:** time-series forecasting, API integration, data preparation, and visualization.
-
-### [Minecraft-Curse-Cycle](https://github.com/flild/Minecraft-Curse-Cycle)
-A **Fabric mod for Minecraft 1.21.1** that introduces a new gameplay challenge every five in-game days, with multiplayer synchronization and an in-game interface.
-
-**Focus:** server-authoritative state, timing logic, multiplayer behavior, and UI implementation.
-
-
----
+## `$ github --telemetry`
 
 <div align="center">
+  <img src="./profile/stats.svg" alt="GitHub statistics" height="175" />
+  <img src="./profile/top-langs.svg" alt="Most used languages" height="175" />
+</div>
 
-*Thanks for stopping by.*
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+    <img src="./profile/github-snake-dark.svg" alt="Animated contribution graph" width="100%" />
+  </picture>
+</div>
 
+<div align="center">
+  <sub>Built with curiosity. Maintained with coffee. Improved one commit at a time.</sub>
 </div>
