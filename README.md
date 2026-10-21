@@ -14,6 +14,41 @@ I am a backend developer focused on **C#/.NET and Python**. I build APIs, integr
 
 <div align="center"><sub><b>FOCUS</b> &nbsp; Backend architecture · API design · Async processing · Data pipelines · Automation</sub></div>
 
+## Professional experience
+
+Work experience across backend platforms, search, analytics, AI-assisted workflows, and production operations.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><font color="#58E1FF">BACKEND & INTEGRATIONS</font></strong>
+      <br /><br />
+      <code>C#</code> <code>.NET</code> <code>REST API</code> <code>DI</code> <code>EF Core</code>
+      <br /><sub>Authentication and authorization, API-key access, rate-limiting middleware, API specifications, mail delivery, Telegram integrations, and Robokassa payments.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><font color="#C49BFF">SEARCH & ANALYTICS</font></strong>
+      <br /><br />
+      <code>Manticore Search</code> <code>ClickHouse</code> <code>Redis</code> <code>PostgreSQL</code>
+      <br /><sub>Full-text and vector search, database vectorization, analytical workloads, direct SQL, ingestion optimization, and reporting over large datasets.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><font color="#7CE0B2">AI & DATA PROCESSING</font></strong>
+      <br /><br />
+      <code>AI APIs</code> <code>Prompt engineering</code> <code>OCR</code> <code>Playwright</code>
+      <br /><sub>Product-description generation, AI matching, lemmatization-based matching, OCR for documents and images, web scraping, sitemap generation, and Excel analytics.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><font color="#91A4DB">PRODUCTION & OBSERVABILITY</font></strong>
+      <br /><br />
+      <code>Docker</code> <code>RabbitMQ</code> <code>S3</code> <code>Serilog</code> <code>Grafana</code> <code>Loki</code>
+      <br /><sub>Container lifecycle management, queue-based processing, object storage, image pipelines, structured logging, metrics, dashboards, and load diagnostics with <code>oha</code>.</sub>
+    </td>
+  </tr>
+</table>
+
 ## Capabilities
 
 <table>
@@ -23,15 +58,15 @@ I am a backend developer focused on **C#/.NET and Python**. I build APIs, integr
   </tr>
   <tr>
     <td><strong><font color="#C49BFF">DATA</font></strong></td>
-    <td><code>PostgreSQL</code> · <code>SQL Server</code> · <code>Entity Framework Core</code> · Data preparation</td>
+    <td><code>PostgreSQL</code> · <code>MariaDB</code> · <code>SQL Server</code> · <code>ClickHouse</code> · <code>Redis</code> · <code>Entity Framework Core</code></td>
   </tr>
   <tr>
     <td><strong><font color="#7CE0B2">SYSTEMS</font></strong></td>
-    <td><code>RabbitMQ</code> · <code>Celery</code> · Background workers · Service integrations</td>
+    <td><code>RabbitMQ</code> · <code>Manticore Search</code> · <code>Celery</code> · Full-text search · Vector search · Background workers</td>
   </tr>
   <tr>
     <td><strong><font color="#91A4DB">DELIVERY</font></strong></td>
-    <td><code>Docker</code> · <code>Git</code> · REST APIs · CI workflows · Automation</td>
+    <td><code>Docker</code> · <code>S3</code> · <code>Serilog</code> · <code>Grafana</code> · <code>Loki</code> · REST APIs · CI workflows</td>
   </tr>
 </table>
 
