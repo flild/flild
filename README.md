@@ -25,7 +25,7 @@ My repositories cover service-based applications, time-series experiments, and g
 
 A service-based shop with separate product, cart, coupon, email, and authentication services, plus a message bus. REST APIs and EF Core connect the application to PostgreSQL and SQL Server.
 
-**Explore:** service boundaries, messaging, and data access across services.
+**Explore:** service boundaries, messaging, and data access across services. 
 
 `C#` `ASP.NET Core` `EF Core` `PostgreSQL` `SQL Server`
 
