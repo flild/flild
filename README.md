@@ -27,7 +27,7 @@ A service-based shop with separate product, cart, coupon, email, and authenticat
 
 **Explore:** service boundaries, messaging, and data access across services. 
 
-`C#` `ASP.NET Core` `EF Core` `PostgreSQL` `SQL Server`
+`C#` `ASP.NET Core` `EF Core` `PostgreSQL` `SQL Server` 
 
 ---
 
